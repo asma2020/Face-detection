@@ -1,0 +1,1 @@
+The Single Shot Multibox Detector (SSD) is a popular real-time face detection algorithm that  implemented using the PyTorch library. This repository provides a Flask-based web app that uses the SSD framework to detect human faces in a live video feed from a webcam
